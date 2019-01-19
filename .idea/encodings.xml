@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/maven_day02_dao/src/main/java/com/itheima/dao/ItemsDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_dao/src/main/java/com/itheima/domain/Items.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_dao/src/main/resources/com/itheima/dao/ItemsDao.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_dao/src/main/resources/spring/applicationContext-dao.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_service/src/main/java/com/itheima/service/ItemsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_service/src/main/java/com/itheima/service/impl/ItemsServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_service/src/main/resources/spring/applicationContext-service.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven_day02_web/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/maven_day02_web/src/main/webapp/WEB-INF/pages/itemDetail.jsp" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
